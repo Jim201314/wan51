@@ -1,0 +1,6 @@
+com\wan51\provider\dao\test\controller\CategoryController.class
+com\wan51\provider\dao\test\service\ICategoryService.class
+com\wan51\provider\dao\test\mapper\CategoryMapper.class
+com\wan51\provider\dao\test\entity\Category.class
+com\wan51\provider\dao\test\service\impl\CategoryServiceImpl.class
+com\wan51\provider\dao\test\entity\BaseEntity.class

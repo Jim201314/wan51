@@ -1,1 +1,6 @@
-D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\MysqlGenerator.java
+D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\test\controller\CategoryController.java
+D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\test\entity\BaseEntity.java
+D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\test\mapper\CategoryMapper.java
+D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\test\service\impl\CategoryServiceImpl.java
+D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\test\entity\Category.java
+D:\github\wan51\wan51-provider\dao\src\main\java\com\wan51\provider\dao\test\service\ICategoryService.java
